@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+#reminder {
+    font-size: 24px;
+    color: blue;
+}
+
+
+
+
+
+
+
+/* stop watch */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    margin-top: 150px;
+}
+#display {
+    /* margin-top: 150px; */
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+button {
+    font-size: 18px;
+    margin: 5px;
+    padding: 10px;
+}
